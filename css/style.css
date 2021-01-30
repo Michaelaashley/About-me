@@ -146,10 +146,10 @@ color: #000000;
 
 
 .circle-img {
-    position: relative;
-left: 19%;
-right: 21.53%;
-padding-top: 10%;
+    position: absolute;
+    left: 20%;
+    margin-top: 10%;
+
 }
 
 
